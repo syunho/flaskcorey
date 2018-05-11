@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc9c118d-e0a8-4ca8-9205-ad50e8f48814" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog.py" afterDir="false" />
-    </list>
+    <list default="true" id="dc9c118d-e0a8-4ca8-9205-ad50e8f48814" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,8 +113,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="756" />
+    <option name="x" value="445" />
+    <option name="y" value="26" />
     <option name="width" value="1404" />
     <option name="height" value="877" />
   </component>
@@ -180,8 +174,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="99" width="1404" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="445" y="26" width="1404" height="877" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13087492" />
       <window_info anchor="bottom" id="TODO" order="6" />
